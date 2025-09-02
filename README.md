@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**TommyBermu/TommyBermu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mí
 
-Here are some ideas to get you started:
+🔭 Actualmente trabajo como [Tu Rol, por ejemplo: Desarrollador Full Stack].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías, actualmente enfocado en [Tecnología en la que estás trabajando/aprendiendo].
+
+💬 Pregúntame sobre [Un tema en el que eres experto o te gusta hablar].
+
+⚡ Dato curioso: [Escribe un dato curioso sobre ti].
+
+
+---
+
+### 🛠️ Mi stack de tecnologías
+
+Aquí hay algunas de las tecnologías con las que he trabajado:
+
+
+
+---
+
+### 🚀 Proyectos destacados
+
+---
+
+### 📈 Estadísticas de GitHub
+
+![Tu perfil de GitHub](https://github-readme-stats.vercel.app/api?username=[tu-usuario]&show_icons=true&theme=vue)
+
+---
+
+### 📫 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[tu-usuario-linkedin]/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bermudeztomas06@gmail.com)
