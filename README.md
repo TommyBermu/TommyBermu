@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Tomás Bermudez 👋
 
 ### 💻 Sobre mí
 
@@ -14,10 +14,6 @@ retorfit
 jetpack compose
 kotlin
 ktor
-
----
-
-### 🚀 Proyectos destacados
 
 ---
 
