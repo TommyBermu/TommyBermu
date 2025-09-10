@@ -10,10 +10,10 @@
 
 Aquí hay algunas de las tecnologías con las que he trabajado:
 
-retorfit
-jetpack compose
-kotlin
-ktor
+- retorfit
+- jetpack compose
+- kotlin
+- ktor
 
 ---
 
