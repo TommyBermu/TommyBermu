@@ -1,10 +1,9 @@
 ## Привет!!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2351AFEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Привет+друг!+Я+Томми+:);Hello+friend,+I'm+Tommy+:)!;¡Hola+amigo!+Soy+Tommy+:)!" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2351AFEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Привет+незнакомец!+Я+Томми+:);Hello+stranger!+I'm+Tommy+:);Hola+desconocido!+Soy+Tommy+:)" alt="Headline" />
 </div>
 
 ![wallpaper](img/scp527-079.png)
-
 
 Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computación en la `Universidad Nacional de Colombia`.
 
@@ -25,8 +24,8 @@ Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computació
 [![My Skills](https://skillicons.dev/icons?i=java,linux,arch,bash,c,github,git,docker,mysql,py,supabase,neovim,vscode&theme=dark)](https://skillicons.dev)
 
 ## 📊 Estadísticas
-![GitHub contributions](https://github-readme-stats.vercel.app/api?username=tommybermu&show_icons=true&theme=dark)
+![GitHub contributions](https://github-readme-stats.vercel.app/api?username=tommybermu&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommybermu&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommybermu&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tommybermu&theme=dark&border_radius=5)](https://git.io/streak-stats)
