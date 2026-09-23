@@ -25,6 +25,8 @@ Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computació
 [![My Skills](https://skillicons.dev/icons?i=java,linux,arch,bash,c,github,git,docker,mysql,py,supabase,neovim,vscode&theme=dark)](https://skillicons.dev)
 
 ## 📊 Estadísticas
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tommybermu&bg_color=1a1b27&color=51AFEF&line=51AFEF&point=f1ca18&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tommybermu/tommybermu/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&border_radius=5)](https://git.io/streak-stats)
