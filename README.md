@@ -22,7 +22,6 @@ Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computació
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,arch,bash,c,github,git,docker,mysql,py,supabase,neovim,vscode&theme=dark)](https://skillicons.dev)
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-usuario/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
