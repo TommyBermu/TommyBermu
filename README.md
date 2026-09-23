@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2351AFEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Привет+friend.;I+am+tommy :)!." alt="Headline" />
 </div>
 
-![wallpaper](img/scp527-079.webp)
+![wallpaper](img/scp527-079.png)
 
 
 Me llamo es Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computación en la `Universidad Nacional de Colombia`.
@@ -24,5 +24,3 @@ Me llamo es Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computac
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
-![Mi perfil](https://github-readme-stats.vercel.app/api?username=tommybermu&show_icons=true&theme=vue)
