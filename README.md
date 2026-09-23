@@ -1,6 +1,6 @@
 ## Привет!!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2351AFEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Привет,+друг!+Я+Томми+:);Hello+friend,+I'm+Tommy+:)!;¡Hola,+amigo!+Soy+Tommy+:)!" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2351AFEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Привет+друг!+Я+Томми+:);Hello+friend,+I'm+Tommy+:)!;¡Hola+amigo!+Soy+Tommy+:)!" alt="Headline" />
 </div>
 
 ![wallpaper](img/scp527-079.png)
