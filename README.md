@@ -24,8 +24,8 @@ Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computació
 [![My Skills](https://skillicons.dev/icons?i=java,linux,arch,bash,c,github,git,docker,mysql,py,supabase,neovim,vscode&theme=dark)](https://skillicons.dev)
 
 ## 📊 Estadísticas
-![GitHub contributions](https://github-readme-stats.vercel.app/api?username=tommybermu&show_icons=true&theme=dark&cache_seconds=1800)
+[![tommybermu's GitHub stats](https://github-stats-sigma-five.vercel.app/api?username=tommybermu)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tommybermu&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+[![Top Langs](https://github-stats-sigma-five.vercel.app/api/top-langs/?username=tommybermu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tommybermu&theme=dark&border_radius=5)](https://git.io/streak-stats)
