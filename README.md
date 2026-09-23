@@ -1,28 +1,28 @@
-# Hola, soy Tomás Bermudez 👋
+## Привет!!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2351AFEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Привет+friend.;How+did+you+get+here?;So+welcome+back,+i+guess.;I+am+jdrsajonia,+hell+yeah!." alt="Headline" />
+</div>
 
-### 💻 Sobre mí
+![wallpaper](img/scp527-079.webp)
 
-🔭 Actualmente estudio en la Universidad Nacional de Colombia
 
----
+Me llamo es Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computación en la `Universidad Nacional de Colombia`.
 
-### 🛠️ Mi stack de tecnologías
+¿En qué estoy interesado?
 
-Aquí hay algunas de las tecnologías con las que he trabajado:
+- 🔭 Me encuentro desarrollando de forma autodidacta mis habilidades en ciberseguridad.
+- 🌱 Profundizo en pentesting, redes informáticas y reingeniería/análisis inverso.
+- 🤖 Investigo el potencial de la inteligencia artificial y su aplicación dentro de la seguridad informática.
+- 🤔 Busco orientación y apoyo para perfeccionar mis técnicas en seguridad ofensiva e ingeniería inversa.
+-->
+  
+<h3 align="left">Algunas habilidades y tecnologías con las que he trabajado</h3>
 
-- Firebase
-- Android Studio
-- MySQL
-- 
+[![My Skills](https://skillicons.dev/icons?i=java,linux,arch,bash,c,github,git,docker,mysql,py,supabase,neovim,vscode&theme=dark)](https://skillicons.dev)
 
----
 
-### 📈 Estadísticas de GitHub
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-![Tu perfil de GitHub](https://github-readme-stats.vercel.app/api?username=tommybermu&show_icons=true&theme=vue)
-
----
-
-### 📫 Conéctate conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-bermudez-36a5b5301/)
+![Mi perfil](https://github-readme-stats.vercel.app/api?username=tommybermu&show_icons=true&theme=vue)
