@@ -27,4 +27,4 @@ Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computació
 ## 📊 Estadísticas
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tommybermu&bg_color=1a1b27&color=51AFEF&line=51AFEF&point=f1ca18&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tommybermu&theme=dark&border_radius=5)](https://git.io/streak-stats)
