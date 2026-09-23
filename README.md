@@ -6,14 +6,16 @@
 ![wallpaper](img/scp527-079.png)
 
 
-Me llamo es Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computación en la `Universidad Nacional de Colombia`.
+Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computación en la `Universidad Nacional de Colombia`.
 
 ¿En qué estoy interesado?
 
-- 🔭 Me encuentro desarrollando de forma autodidacta mis habilidades en ciberseguridad.
-- 🌱 Profundizo en pentesting, redes informáticas y reingeniería/análisis inverso.
-- 🤖 Investigo el potencial de la inteligencia artificial y su aplicación dentro de la seguridad informática.
-- 🤔 Busco orientación y apoyo para perfeccionar mis técnicas en seguridad ofensiva e ingeniería inversa.
+- 🔭 Me encuentro desarrollando de forma autodidacta mis habilidades en ciberseguridad
+- 🌱 Profundizo en pentesting, redes informáticas y reingeniería/análisis inverso
+- 🤖 Investigo el potencial de la inteligencia artificial y su aplicación dentro de la seguridad informática
+- 🤔 Busco orientación y apoyo para perfeccionar mis técnicas en seguridad ofensiva e ingeniería inversa
+- 🤟 Actualmente aprendo Lengua de Señas Colombiana (LSC)
+- 🇷🇺 También me dedico al aprendizaje del idioma ruso
 -->
   
 <h3 align="left">Algunas habilidades y tecnologías con las que he trabajado</h3>
@@ -21,6 +23,6 @@ Me llamo es Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computac
 [![My Skills](https://skillicons.dev/icons?i=java,linux,arch,bash,c,github,git,docker,mysql,py,supabase,neovim,vscode&theme=dark)](https://skillicons.dev)
 
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
 </p>
