@@ -16,12 +16,15 @@ Me llamo Tomas Bermudez, Soy Estudiante de Ingeniería de Sistemas y Computació
 - 🤔 Busco orientación y apoyo para perfeccionar mis técnicas en seguridad ofensiva e ingeniería inversa
 - 🤟 Actualmente aprendo Lengua de Señas Colombiana (LSC)
 - 🇷🇺 También me dedico al aprendizaje del idioma ruso
--->
+
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
 <h3 align="left">Algunas habilidades y tecnologías con las que he trabajado</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,arch,bash,c,github,git,docker,mysql,py,supabase,neovim,vscode&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario/tu-usuario/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+## 📊 Estadísticas
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=1a1b27&color=51AFEF&line=51AFEF&point=f1ca18&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&border_radius=5)](https://git.io/streak-stats)
