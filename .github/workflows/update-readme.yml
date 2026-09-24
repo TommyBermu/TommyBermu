@@ -1,0 +1,80 @@
+name: Update README with Top Languages
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Cada domingo a las 00:00 UTC
+  workflow_dispatch:  # También puedes ejecutarlo manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate language stats
+        id: stats
+        uses: anuraghazra/github-readme-stats@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          import json
+          import requests
+          
+          # Obtén tu data de GitHub
+          headers = {'Authorization': 'token ${{ secrets.GITHUB_TOKEN }}'}
+          username = 'tommybermu'
+          
+          # Consulta todos tus repos
+          repos_url = f'https://api.github.com/users/{username}/repos?per_page=100'
+          repos = requests.get(repos_url, headers=headers).json()
+          
+          # Cuenta lenguajes
+          languages = {}
+          for repo in repos:
+              if repo['language']:
+                  languages[repo['language']] = languages.get(repo['language'], 0) + 1
+          
+          # Ordena
+          sorted_langs = sorted(languages.items(), key=lambda x: x[1], reverse=True)[:8]
+          
+          # Crea la tabla
+          table = "| Lenguaje | Repos |\n|----------|-------|\n"
+          for lang, count in sorted_langs:
+              table += f"| {lang} | {count} |\n"
+          
+          # Lee el README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # Busca la sección o la crea
+          if '<!-- LANGUAGES_START -->' in content:
+              start = content.find('<!-- LANGUAGES_START -->') + len('<!-- LANGUAGES_START -->')
+              end = content.find('<!-- LANGUAGES_END -->')
+              content = content[:start] + '\n' + table + '\n' + content[end:]
+          else:
+              content += '\n\n## 🔝 Lenguajes principales\n\n' + table
+          
+          # Guarda
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "chore: update top languages" || echo "No changes"
+          git push
